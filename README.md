@@ -25,7 +25,7 @@
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊<br><br>
 
-![snake](https://raw.githubusercontent.com/W1lliam-Mendes/EliasRobson/output/github-contribution-grid-snake-dark.svg)
+![snake](https://raw.githubusercontent.com/EliasRobson/EliasRobson/output/github-contribution-grid-snake-dark.svg)
 
 <div align="left">
 
