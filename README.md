@@ -15,8 +15,8 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,github,mysql,windows,linux,spring&theme=dark)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
-[![Gmail Badge](https://img.shields.io/badge/Gmail-williamendesdp%40gmail.com-6e40c9?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=4a0080)](mailto:eliasrvieiras@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-wil__mdp-9b59b6?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=4a0080)](https://www.instagram.com/eliasrvieiras/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-eliasrvieiras%40gmail.com-6e40c9?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=4a0080)](mailto:eliasrvieiras@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-eliasrvieiras-9b59b6?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=4a0080)](https://www.instagram.com/eliasrvieiras/)
 <br><br>
 
 <p align="center">
