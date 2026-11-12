@@ -9,10 +9,10 @@
 </p>
 
 ## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,javascript,typescript&theme=dark)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,javascript,&theme=dark)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,github,mysql,windows,linux,flask,spring&theme=dark)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,github,mysql,windows,linux,spring&theme=dark)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 [![Gmail Badge](https://img.shields.io/badge/Gmail-williamendesdp%40gmail.com-6e40c9?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=4a0080)](mailto:eliasrvieiras@gmail.com)
@@ -24,8 +24,6 @@
 </p>
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊<br><br>
-
-![snake](https://raw.githubusercontent.com/EliasRobson/EliasRobson/output/github-contribution-grid-snake-dark.svg)
 
 <div align="left">
 
